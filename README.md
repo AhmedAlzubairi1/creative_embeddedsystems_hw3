@@ -4,7 +4,7 @@ Module 4 for Creative embedded Systems.
 ## Sources:
 Go to https://git.io/JTz3m to download the master file. 
 
-I used the Basic HTTP Client example sketch to handle all the wifi/http request of the code. Please see that for reference.
+I used the BasicHTTPClient example sketch to handle all the wifi/http request of the code. Please see that for reference.
 
 The code relating to making the rainbow sequence of the RGB LED module is found here:  https://github.com/Freenove/Freenove_WS2812_Lib_for_ESP32/blob/master/examples/Rainbow/Rainbow.ino
 
