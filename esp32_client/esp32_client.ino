@@ -43,7 +43,7 @@ void setup(){
 }
  
 void loop() {
-  // The wifi/http code aka most of the code except the if/else statement testing if payload is false/true is SOURCED fromt he basic http request sketch example file. See that for source
+  // The wifi/http code aka most of the code except the if/else statement testing if payload is false/true is SOURCED from the BasicHTTPClient sketch example file. See that for source
   
     if((WiFi.status() == WL_CONNECTED)) {
 
